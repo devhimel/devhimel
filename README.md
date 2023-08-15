@@ -45,9 +45,8 @@
  </p>
 
 
- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=creativehimel&show_icons=true&locale=en&layout=compact" alt="creativehimel" /></p>
-
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=creativehimel&show_icons=true&locale=en" alt="creativehimel" /></p>
+ <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=creativehimel&show_icons=true&locale=en&layout=compact" alt="creativehimel" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=creativehimel&show_icons=true&locale=en" alt="creativehimel" /></p>
 
 
 
