@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/creativehimel" target="blank"><img src="https://img.shields.io/twitter/follow/creativehimel?logo=twitter&style=for-the-badge" alt="creativehimel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/creativehimel" target="blank"><img src="./dev.gif" alt="creativehimel" /></a> </p>
 
 - 🌱 I’m currently learning **Vue Js, Laravel**
 
