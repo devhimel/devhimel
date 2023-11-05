@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Himel Ali</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate FrontEnd and BackEnd developer from Bangladesh</h3>
+<p align="justify">
+ I am a web developer with 1 year of experience in building and maintaining high-traffic websites and web applications. I have a strong understanding of **HTML**, **CSS**, **JavaScript**, and **PHP**, as well as experience with a variety of databases(**MySQL**,**PostgreSQL** etc) and frameworks(**Bootstrap**, **Tailwindcss**, **Vuejs**, **Laravel**). I am also skilled in SEO and user-centered design principles.<br/>
 
+I am passionate about building web applications that are both visually appealing and easy to use. I am also a strong believer in the importance of collaboration and communication, and I enjoy working with teams to create innovative and effective solutions.<br/>
+I am always looking for new challenges and opportunities to learn and grow. I am also excited to contribute to the ever-evolving world of web development.
+
+</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativehimel&label=Profile%20views&color=0e75b6&style=flat" alt="creativehimel" /> </p>
 
