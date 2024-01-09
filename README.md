@@ -57,5 +57,4 @@ I am always looking for new challenges and opportunities to learn and grow. I am
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creativehimel&" alt="creativehimel" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/creativehimel/creativehimel/blob/output/github-contribution-grid-snake.svg)
+
